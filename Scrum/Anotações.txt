@@ -1,0 +1,159 @@
+                        Artigo  
+
+Método Scrum: Conceitos e Como montar nas Empresas
+
+Redação Alura
+
+Produtividade sempre foi um conceito bastante discutido no mundo corporativo. 
+Um colaborador produtivo que entrega resultados satisfatórios com agilidade e rapidez é um sonho de qualquer empresa.
+Encontrar maneiras saudáveis de engajar um funcionário para contribuir com que ele ofereça o seu melhor desempenho, 
+entretanto, pode ser um desafio.
+A metodologia Scrum foi desenvolvida buscando promover maneiras de alcançar ótimos resultados de produtividade através 
+do gerenciamento de tarefas e projetos. 
+Esse método tem ajudado equipes de empresas diversas a realizarem projetos de maneira fluida, dinâmica e rápida.
+Nesse artigo, vamos te ajudar a implementar o Scrum no dia a dia e a melhorar ainda mais a produtividade do seu time!
+
+O método Scrum
+
+Scrum é uma metodologia ágil desenvolvida para potencializar equipes no ambiente de trabalho.
+O Scrum se baseia em princípios que podem ser encontrados dentro do Manifesto Ágil, um manifesto criado por 17 autores 
+que discorrem sobre a utilização de ferramentas, contratos e planos para o sucesso de um projeto.
+Inicialmente, o método foi desenvolvido com o objetivo de atender demandas de empresas de software, mas, hoje em dia, 
+tem se difundido em empresas de diversos segmentos.
+Segundo o Scrum Guide, o guia oficial da metodologia, “Scrum é um framework dentro do qual pessoas podem tratar e resolver
+ problemas complexos e adaptativos, enquanto produtiva e criativamente entregam produtos com o mais alto valor possível”.
+O grande diferencial por trás desse método é prezar por uma entrega fracionada de um projeto.
+Quer entender como esse método funciona na prática? Vamos observar o exemplo abaixo:
+
+Você trabalha no setor de RH e está fazendo um processo de seleção de um novo colaborador. Ao invés de mostrar o resultado 
+obtido de 50 entrevistas, você poderia apresentar, inicialmente, apenas 5 delas.
+E por que seria interessante apresentar esse resultado fracionado?
+
+Supomos que, inicialmente, você entrevistou 5 candidatos e nenhum deles estava de acordo com a vaga. Utilizando a 
+metodologia Scrum, você faria uma análise parcial após essa entrega fracionada e perceberia que existe algo atrapalhando a 
+seleção. Algo está dando errado, mas ainda há tempo de mudar!
+
+Se você esperasse entrevistar todos os 50 candidatos para analisar seus resultados, perceberia de maneira tardia que algo 
+precisava de mudanças, o que acabaria gerando grandes gastos.
+Vamos a um exemplo mais visual: pense em uma casa em construção.
+
+Se você analisar a sua construção apenas ao final da obra, será muito mais difícil resolver um possível problema encontrado 
+agora do que se isso tivesse sido observado enquanto a construção acontecia.
+O método Scrum é sobre encontrar problemas antes que eles virem grandes dores de cabeça aos envolvidos. Ao fragmentar os 
+projetos em pequenas partes, se algo não sair conforme o planejado, é possível intervir e evitar retrabalhos.
+
+Conceitos básicos do Scrum
+
+Agora que você já descobriu o que o Scrum pode fazer pelo seu time, é hora de entender como aplicá-lo!
+
+No começo, os diversos conceitos envolvidos na metodologia podem parecer intimidadores, mas não se preocupe. A seguir, vamos
+trazer uma explicação para que você compreenda cada um deles com calma!
+Papéis importantes
+
+É importante ressaltar que, dentro dessa metodologia, não existem cargos e, sim, papéis. Todos os papéis são importantes para
+que o método possa fluir com facilidade e dinamismo.
+Product Owner, também conhecido como P.O., é o responsável pela parte de negócios.
+
+Ele vai realizar a comunicação com o cliente, definir o que terá de ser feito dentro do projeto e qual será o nível de 
+prioridade de cada tarefa. Também gerencia o product backlog, que você vai conhecer mais adiante.
+
+Scrum Master é a pessoa que precisa ter um bom conhecimento sobre Scrum e outras metodologias ágeis.
+Ela percebe as necessidades do time, garante a comunicação entre a equipe e resolve os impedimentos que surgem durante o projeto. 
+Como um moderador, mantém a ordem e também ensina aos outros membros da equipe sobre Scrum e resolução de problemas.
+
+Equipe configura todos os colaboradores envolvidos na construção do projeto.
+A equipe vai variar conforme o tipo de trabalho exigido. Por exemplo, na criação do layout de uma revista, ela precisaria ser 
+composta por designers.
+
+Glossário de estratégias
+
+    Product backlog
+
+O lugar em que o P.O. escreve tudo o que será necessário ter naquele projeto para que ele seja executado e organizado de acordo
+com a prioridade.
+Na construção de uma casa, por exemplo, construir as paredes estaria no topo e a sua pintura estaria em uma posição mais baixa. 
+A pintura também é importante, porém, sem ela, uma casa continua sendo uma casa; sem paredes, não.
+
+    Sprint
+
+O tempo para entregar valor para o cliente.
+Neste caso, o cliente pode ser qualquer pessoa que esteja precisando daquele projeto. Por exemplo, é necessário entregar o 
+fechamento do mês para o líder da área financeira, logo: o líder seria o cliente.
+Como o Scrum preza a entrega por meio de fragmentos, as Sprints precisam durar, no máximo, um mês.
+
+    Planning
+
+Reunião que abre toda sprint. Nela, o Product Owner mostra o Product Backlog para a equipe e é discutido o que será feito na 
+sprint iniciada.
+“Segundo o Scrum Guide, as plannings precisam levar 5% do tempo de uma sprint. Isto é, se a sprint tem 80 horas de duração 
+(duas semanas de trabalho, trabalhando 8 horas por dia), a planning pode levar, no máximo, 4 horas.” - Lucas Takeshi | 
+Ex-Professor de Scrum do Grupo Alura.
+
+    Daily
+
+Reuniões que acontecem diariamente e, idealmente, não devem ultrapassar 15 minutos de duração. Elas são importantes para manter
+a  comunicação e transparência entre o time, já que a metodologia Scrum não trabalha com a delegação de tarefas e, sim, com 
+iniciativas.
+
+Apenas 3 perguntas devem ser respondidas na Daily, sendo elas:
+
+- O que eu fiz? – O que a pessoa fez da Daily anterior até essa;
+- O que vou fazer? – O que a pessoa fará até a próxima reunião diária;
+- Tive algum problema ou impedimento que me atrapalhou?
+
+    Sprint backlog
+
+A cada Sprint, um subconjunto prioritário do Backlog é separado para ser feito pela equipe. Esse subconjunto é chamado de Sprint
+Backl og e nele é decidido o que será feito na próxima Sprint.
+
+    Review
+
+Ao final de cada Sprint, é feita uma reunião com o time e o cliente para mostrar os resultados alcançados até então. A review é 
+extremamente importante, pois é nela que alinhamos as necessidades do cliente com o que está sendo produzido e, se houve erros 
+ou mudanças no projeto, todos ficam cientes.
+“Ainda de acordo com o Scrum Guide, as reviews precisam durar 2,5% do tempo de cada sprint. No caso da sprint de 2 semanas, com 80
+ horas de trabalho semanais, a review poderia durar, no máximo, 2 horas.” - Lucas Takeshi | Ex-Professor de Scrum do Grupo Alura.
+
+    Retrospectiva
+
+Após as reviews, são feitas reuniões de retrospectiva em que somente o time participa. Nessas reuniões são tratados assuntos da 
+equipe para descobrir se todos estão satisfeitos com o trabalho, se há sugestões de melhoria e descobrir o grau de satisfação da 
+equipe. O tempo é importante
+
+Como tudo tem um propósito e um objetivo muito claro com Scrum, é interessante que o tempo seja bem organizado. Todo minuto 
+importa!
+Tenha em mente, porém, que o Scrum sempre preza pela flexibilidade no desenvolvimento dos projetos. Se sentir que algo não está
+funcionando da maneira que deveria, talvez seja importante dar um passo para trás e refletir!
+
+Como está escrito no manifesto: “*Mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento. Processos ágeis
+ tiram vantagem das mudanças visando vantagem competitiva para o cliente”.
+Transparência, visualização e comunicação
+
+Uma grande parte do Scrum é prezar pela transparência e visão ampla do que está acontecendo com o projeto e a equipe.
+E é exatamente para isso que existe o Quadro Scrum!
+
+Nesse quadro, são organizados os projects backlog, as tarefas que estão sendo trabalhadas na sprint atual e o andamento das
+atividades.
+
+Como montar um Quadro Scrum
+
+Seu Quadro Scrum pode ser tanto um quadro branco, com notas de papel coladas para cada tarefa, quanto um quadro digital em um 
+software especializado.
+Aqui na Alura, nós gostamos de usar o Trello, uma ferramenta de gerenciamento de projetos que permite que as pessoas tenham uma visão 
+ampla das tarefas que estão executando.
+O Trello aumenta a interação e produtividade dos times, fornecendo todas as informações necessárias para que um projeto seja desempenhado
+ da melhor forma possível.
+O mais importante, porém, é que a equipe se sinta confortável com o meio escolhido!
+Scrum para todas as horas e áreas
+
+Adaptável a qualquer negócio, empresas do mundo todo tem colocado essa metodologia em prática e, a partir dela, criando seus próprios 
+métodos ágeis.
+De acordo com um artigo publicado na Infoq, o Spotify criou sua própria metodologia ágil, totalmente adaptada ao produto e aos objetivos 
+da empresa.
+Já a Open View, aproveita os benefícios do Scrum em diversas áreas, como vendas, marketing e, até mesmo, no setor financeiro.
+
+Acredita que o Scrum pode funcionar para você?
+Para compreender o Scrum ainda mais, é interessante conhecer profundamente sua filosofia e sua proposta.
+
+Quer uma ajudinha nossa? Se você gostou e quer saber mais sobre o assunto e como implementar a cultura ágil em sua empresa, fale com a gente!
+ Vai ser incrível ajudar você :)
